@@ -12,4 +12,6 @@ The Privacy Policy describes what the app actually does. If a release changes wh
 
 GitHub Pages from `main`, root folder. Once `privatematter.app` is registered, add a `CNAME` file containing `privatematter.app`, point the domain's DNS at GitHub Pages, and turn on Enforce HTTPS. Use relative links only; they work both at `/privatematter-site/` and at the domain root.
 
+Do not rename or delete this repository. Shipped app builds link to `https://joneisen.github.io/privatematter-site/privacy/`, and that address keeps working after the domain is set only because GitHub redirects it, path included, to the custom domain.
+
 Published by Iron Beard Digital, LLC. Contact: support@privatematter.app.
